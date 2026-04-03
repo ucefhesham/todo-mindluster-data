@@ -1,0 +1,75 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Design homepage",
+      "description": "Include hero section and mission statement.",
+      "column": "review",
+      "createdAt": "2026-04-01T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "Setup API",
+      "description": "Setup CRUD endpoints for tasks.",
+      "column": "in_progress",
+      "createdAt": "2026-04-01T10:15:00Z"
+    },
+    {
+      "id": "3",
+      "title": "Write Docs",
+      "description": "API documentation using Swagger.",
+      "column": "review",
+      "createdAt": "2026-04-01T10:30:00Z"
+    },
+    {
+      "title": "Build the website for Mindluster",
+      "description": "Doing the Frontend, Pushing to Github, then Deploying it online",
+      "column": "in_progress",
+      "createdAt": "2026-04-01T11:35:56.616Z",
+      "id": "p-9OL0rPQLQ"
+    },
+    {
+      "title": "Fix Verification Task",
+      "description": "Test description for verification.",
+      "column": "done",
+      "createdAt": "2026-04-01T11:57:57.416Z",
+      "id": "PIz2SRTI2J8"
+    },
+    {
+      "title": "Testing In Progress Task",
+      "description": "",
+      "column": "backlog",
+      "createdAt": "2026-04-01T11:58:48.055Z",
+      "id": "-Ss5SvGpDxw"
+    },
+    {
+      "title": "Final Test Task",
+      "description": "Testing automatic refresh.",
+      "column": "done",
+      "createdAt": "2026-04-01T12:02:37.100Z",
+      "id": "Htl0fFnKiY0"
+    },
+    {
+      "title": "test",
+      "description": "",
+      "column": "backlog",
+      "createdAt": "2026-04-01T22:26:25.930Z",
+      "id": "3gMlUT4XmuM"
+    },
+    {
+      "title": "Persistence Test",
+      "description": "",
+      "column": "backlog",
+      "createdAt": "2026-04-01T22:44:29.775Z",
+      "id": "uDlQXCv4_jg"
+    },
+    {
+      "title": "Persistence Test 2",
+      "description": "",
+      "column": "backlog",
+      "createdAt": "2026-04-01T22:48:17.587Z",
+      "id": "picg2fXNYDE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
