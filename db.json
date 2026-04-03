@@ -70,6 +70,5 @@
       "createdAt": "2026-04-01T22:48:17.587Z",
       "id": "picg2fXNYDE"
     }
-  ],
-  "$schema": "./node_modules/json-server/schema.json"
+  ]
 }
